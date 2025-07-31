@@ -123,7 +123,6 @@ fitness-assistant/
 │   └── index.html          # Web interface
 ├── notebooks/
 │   └── code_propre.ipynb   # Data processing notebook
-├── qdrant_storage/         # Vector database storage
 ├── main.py                 # FastAPI application
 ├── requirements.txt        # Python dependencies
 ├── .envrc_template        # Environment variables template

@@ -66,12 +66,6 @@ The application uses Qdrant as the vector database. Start it using Docker:
 docker run -p 6333:6333 qdrant/qdrant
 ```
 
-Alternatively, you can use Docker Compose if you have a `docker-compose.yml` file:
-
-```bash
-docker-compose up -d qdrant
-```
-
 ## Running the Application
 
 ### Option 1: Web Application (Recommended)

@@ -143,16 +143,6 @@ You can change the backend by modifying the `BACKEND` variable in `main.py`:
 BACKEND = "qdrant"  # or "minsearch"
 ```
 
-## API Endpoints
-
-- `GET /`: Web interface
-- `POST /query`: Submit fitness questions
-  ```json
-  {
-    "query": "your fitness question here"
-  }
-  ```
-
 ## Troubleshooting
 
 ### Common Issues

@@ -95,7 +95,7 @@ This will run a test query and display the results in the terminal.
 
 1. **Web Interface**: 
    - Open your browser to `http://localhost:8000`
-   - Type your fitness question in French or English
+   - Type your fitness question in English
    - Get personalized exercise recommendations and advice
 
 2. **Example Questions**:
@@ -182,7 +182,6 @@ BACKEND = "qdrant"  # or "minsearch"
 
 - Modify `templates/index.html` for UI changes
 - Update CSS styles within the HTML file
-- The interface supports both French and English
 
 ## Contributing
 
